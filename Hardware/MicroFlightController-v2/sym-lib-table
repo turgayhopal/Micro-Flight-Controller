@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fdma410nz")(type "KiCad")(uri "${KIPRJMOD}/Symbols/fdma410nz.kicad_sym")(options "")(descr ""))
+  (lib (name "hmc5883l")(type "KiCad")(uri "${KIPRJMOD}/Symbols/hmc5883l.kicad_sym")(options "")(descr ""))
+  (lib (name "mpu6500")(type "KiCad")(uri "${KIPRJMOD}/Symbols/mpu6500.kicad_sym")(options "")(descr ""))
+)
