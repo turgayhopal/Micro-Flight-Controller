@@ -18,10 +18,15 @@
 - 4 layer PCB.
 - 0.45 / 0.3 vias
 
-![Back View](https://github.com/turgayhopal/Micro-Flight-Controller/tree/main/Hardware/MicroFlightController-v2/Images/right.png)
+### Right Side
+<img src="Hardware/MicroFlightController-v2/Images/right.png" width="300" />
 
-![Back View](https://github.com/turgayhopal/Micro-Flight-Controller/tree/main/Hardware/MicroFlightController-v2/Images/front.png)
 
-![Back View](https://github.com/turgayhopal/Micro-Flight-Controller/tree/main/Hardware/MicroFlightController-v2/Images/back.png)
+### Front Side
+<img src="Hardware/MicroFlightController-v2/Images/front.png" width="300" />
+
+
+### Back Side
+<img src="Hardware/MicroFlightController-v2/Images/back.png" width="300" />
 
 
